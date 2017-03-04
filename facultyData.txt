@@ -1,0 +1,6 @@
+1, Main Street, Selden, NY, 11784
+John, Smith, 6314569876, RM321, 132000, Professor
+2, Main Street, Selden, NY, 11784
+Jane, Smith, 6311237867, RM324, 124000, Professor
+3, Main Street, Selden, NY, 11784
+Josh, Doe, 6310980123, RM352, 90000, Professor
